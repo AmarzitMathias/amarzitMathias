@@ -31,17 +31,12 @@ jobs:
 
       - name: 📝 Inject into README.md
         run: |
-          # Supprimer l'ancienne section
-          awk 'BEGIN{found=0}
-            /<!--START_SECTION:repos-->/ {found=1; print; next}
-            /<!--END_SECTION:repos-->/ {found=0; print; next}
-            !found {print}' README.md > temp.md
+          sed -i '/<!--START_SECTION:repos-->/, /<!--END_SECTION:repos-->/{
+            r new_repos.md
+            d
+          }' README.md
 
-          # Ajouter la nouvelle section
-          awk 'NR==FNR{print; next}1' new_repos.md temp.md > README.md
-
-          # Nettoyer
-          rm repos.json temp.md new_repos.md
+          rm repos.json new_repos.md
 
       - name: ✅ Commit and push if changed
         run: |
