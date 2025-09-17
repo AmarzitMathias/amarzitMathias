@@ -1,0 +1,20 @@
+on:
+  schedule:
+    - cron: '0 0 * * *' # tous les jours à minuit
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions-cool/github-repo-list@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: AmarzitMathias
+          count: 2
+          order: updated
+          exclude: ""
+          type: public
+          theme: default
+          file_path: README.md
