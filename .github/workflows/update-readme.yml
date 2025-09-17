@@ -1,4 +1,4 @@
-name: 🛠️ Update README with Recent Repos
+name: 🛠️ Update README with recent repos
 
 on:
   schedule:
@@ -6,32 +6,47 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Autorise commit et push
+  contents: write
 
 jobs:
-  update-readme:
+  update-repos-list:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: 🔄 Checkout repository
+        uses: actions/checkout@v5
 
-      - name: Update repo list in README
-        uses: readme/github-readme-repo-list@v2
-        with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          user: AmarzitMathias
-          max: 5
-          sort: updated
-          include-forks: false
-          target-file: README.md
-          start-marker: '<!--START_SECTION:repos-->'
-          end-marker: '<!--END_SECTION:repos-->'
+      - name: 📦 Generate repo list via GitHub API
+        run: |
+          # Récupérer les 5 derniers dépôts mis à jour
+          curl -s \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/users/AmarzitMathias/repos?sort=updated&per_page=3" \
+            > repos.json
 
-      - name: Commit and push if changes
+          # Générer le Markdown : nom + lien + description
+          echo "<!--START_SECTION:repos-->" > new_repos.md
+          jq -r '.[] | "- [\(.name)](\(.html_url))\n  > \(.description // "Pas de description")\n"' repos.json >> new_repos.md
+          echo "<!--END_SECTION:repos-->" >> new_repos.md
+
+      - name: 📝 Inject into README.md
+        run: |
+          # Supprimer l'ancienne section
+          awk 'BEGIN{found=0}
+            /<!--START_SECTION:repos-->/ {found=1; print; next}
+            /<!--END_SECTION:repos-->/ {found=0; print; next}
+            !found {print}' README.md > temp.md
+
+          # Ajouter la nouvelle section
+          awk 'NR==FNR{print; next}1' new_repos.md temp.md > README.md
+
+          # Nettoyer
+          rm repos.json temp.md new_repos.md
+
+      - name: ✅ Commit and push if changed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "📄 Update README with recent repositories"
+          git diff --cached --quiet || git commit -m "📄 Mise à jour automatique du README avec les derniers repos"
           git push
