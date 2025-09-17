@@ -2,36 +2,36 @@ name: 🛠️ Update README with Recent Repos
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Tous les jours à minuit UTC
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔑 Autorise les commits/push
-
+  contents: write  # Autorise commit et push
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
 
-      - name: Run README Repos List
-        uses: koj-co/readme-repos-list@v1.3.2
+   steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update repo list in README
+        uses: actions-cool/readme-repo-list@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          query: "user:AmarzitMathias sort:updated" 
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          user: AmarzitMathias
           max: 5
-          path: README.md
-          start: "<!--START_SECTION:repos-->"
-          end: "<!--END_SECTION:repos-->"
+          sort: updated
+          include-forks: false
+          target-file: README.md
+          start-marker: '<!--START_SECTION:repos-->'
+          end-marker: '<!--END_SECTION:repos-->'
 
-      - name: ✅ Commit et push si modifications
-  run: |
-    git config --global user.name 'github-actions[bot]'
-    git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-    git add README.md
-    git diff --cached --quiet || git commit -m "📄 Update README with recent repositories"
-    git pull --rebase origin main
-    git push
-
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "📄 Update README with recent repositories"
+          git push
