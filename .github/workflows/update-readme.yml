@@ -1,9 +1,13 @@
-name: Update README with Recent Repos
+name: 🛠️ Update README with Recent Repos
 
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write   # 🔑 Autorise les commits/push
+
 
 jobs:
   update-readme:
