@@ -38,6 +38,10 @@ Je m’appelle Mathias Amarzit, passionné par le développement web, en particu
 ## 🚀 Projets récents
 
 <!--START_SECTION:repos-->
+<!-- This list is auto-generated using koj-co/readme-repos-list -->
+<!-- Do not edit this list manually, your changes will be overwritten -->
+[![AmarzitMathias/amarzitMathias](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F72758865%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/AmarzitMathias/amarzitMathias)
+[![AmarzitMathias/Project_automation](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F72758865%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/AmarzitMathias/Project_automation)
 <!--END_SECTION:repos-->
 
 ---
