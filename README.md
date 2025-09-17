@@ -1,11 +1,3 @@
-<!--START_SECTION:repos-->
-- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
-  > Pas de description
-
-- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
-  > Pas de description
-
-<!--END_SECTION:repos-->
 # 👋 Présentation
 
 Bienvenue sur mon profil GitHub !  
