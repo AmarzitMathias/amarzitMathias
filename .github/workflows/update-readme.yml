@@ -1,0 +1,34 @@
+name: 🛠️ Update README with Recent Repos
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Tous les jours à minuit
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🔄 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🧠 Update repo list in README
+        uses: actions-cool/github-repo-list@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: AmarzitMathias
+          count: 2
+          order: updated
+          exclude: ""
+          type: public
+          theme: default
+          file_path: README.md
+
+      - name: ✅ Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --cached --quiet || git commit -m "📄 Update README with recent repositories"
+          git push
