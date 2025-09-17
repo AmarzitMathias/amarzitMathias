@@ -38,6 +38,14 @@ Je m’appelle Mathias Amarzit, passionné par le développement web, en particu
 ## 🚀 Projets récents
 
 <!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Pas de description
+
+<!--END_SECTION:repos-->
 <!--END_SECTION:repos-->
 
 ---
