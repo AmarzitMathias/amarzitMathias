@@ -37,12 +37,7 @@ Je m’appelle Mathias Amarzit, passionné par le développement web, en particu
 
 ## 🚀 Projets récents
 
-- [Project_automation](https://github.com/AmarzitMathias/Project_automation)  
-  *Projet d’automatisation réalisé en Python.*
-
-- [Portfolio_bulma](https://github.com/AmarzitMathias/Portfolio_bulma)  
-  *Portfolio personnel avec une interface responsive.*
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
 
 ---
-
-*Ce profil est mis à jour régulièrement pour refléter mes compétences et projets actuels.*
