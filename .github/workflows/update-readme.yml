@@ -18,25 +18,29 @@ jobs:
 
       - name: 📦 Generate repo list via GitHub API
         run: |
-          # Récupérer les 5 derniers dépôts mis à jour
           curl -s \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            "https://api.github.com/users/AmarzitMathias/repos?sort=updated&per_page=3" \
+            "https://api.github.com/users/AmarzitMathias/repos?sort=updated&per_page=5" \
             > repos.json
 
-          # Générer le Markdown : nom + lien + description
           echo "<!--START_SECTION:repos-->" > new_repos.md
           jq -r '.[] | "- [\(.name)](\(.html_url))\n  > \(.description // "Pas de description")\n"' repos.json >> new_repos.md
           echo "<!--END_SECTION:repos-->" >> new_repos.md
 
+      - name: Debug generated markdown
+        run: cat new_repos.md
+
       - name: 📝 Inject into README.md
         run: |
-          sed -i '/<!--START_SECTION:repos-->/, /<!--END_SECTION:repos-->/{
-            r new_repos.md
-            d
-          }' README.md
+          awk '
+            BEGIN { inside=0 }
+            /<!--START_SECTION:repos-->/ { print; system("cat new_repos.md"); inside=1; next }
+            /<!--END_SECTION:repos-->/ { print; inside=0; next }
+            !inside { print }
+          ' README.md > README.tmp && mv README.tmp README.md
 
           rm repos.json new_repos.md
+
 
       - name: ✅ Commit and push if changed
         run: |
