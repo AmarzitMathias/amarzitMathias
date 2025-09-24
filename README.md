@@ -676,6 +676,646 @@ Je m’appelle Mathias Amarzit, passionné par le développement web, en particu
 <!--END_SECTION:repos-->
 <!--END_SECTION:repos-->
 <!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--START_SECTION:repos-->
+<!--START_SECTION:repos-->
+- [amarzitMathias](https://github.com/AmarzitMathias/amarzitMathias)
+  > Pas de description
+
+- [Project_automation](https://github.com/AmarzitMathias/Project_automation)
+  > Projet permettant de générer automatiquement des structures de projet prêtes à  l’emploi en EJS ou React, configurées pour un lancement immédiat en localhost
+
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
+<!--END_SECTION:repos-->
 <!--END_SECTION:repos-->
 
 ---
