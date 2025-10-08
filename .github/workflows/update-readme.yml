@@ -23,9 +23,9 @@ jobs:
             "https://api.github.com/users/AmarzitMathias/repos?sort=updated&per_page=5" \
             > repos.json
 
-          echo "<!--START_SECTION:repos-->" > new_repos.md
+          # Générer sans les balises
+          > new_repos.md
           jq -r '.[] | "- [\(.name)](\(.html_url))\n  > \(.description // "Pas de description")\n"' repos.json >> new_repos.md
-          echo "<!--END_SECTION:repos-->" >> new_repos.md
 
       - name: Debug generated markdown
         run: cat new_repos.md
